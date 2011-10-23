@@ -1,0 +1,8 @@
+Package: nexus-oss
+Version: 1.9.1
+Section: base
+Priority: optional
+Architecture: all
+Depends: bash (>= 2.05a-11), sun-java6-jdk, apache2, libapache2-mod-proxy-html
+Maintainer: Tim O'Brien <tobrien@discursive.com
+Description: Repository Manager. Nexus is a repository manager from Sonatype (http://nexus.sonatype.com)
